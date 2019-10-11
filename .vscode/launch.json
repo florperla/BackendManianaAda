@@ -1,0 +1,36 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch)-App<Estacionamiento>",
+            "request": "launch",
+            "mainClass": "app.App",
+            "projectName": "Estacionamiento"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-App<Juntada>",
+            "request": "launch",
+            "mainClass": "app.App",
+            "projectName": "Juntada"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-App<PooFlix>",
+            "request": "launch",
+            "mainClass": "app.App",
+            "projectName": "PooFlix"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-App<Cine>",
+            "request": "launch",
+            "mainClass": "app.App",
+            "projectName": "Cine"
+        }
+    ]
+}
